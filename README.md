@@ -1,4 +1,4 @@
-## Olá! Eu Sou Leandro Wilker 👋
+## Olá! Eu Sou Leandro Wilke 👋
 
 - 🔭 Hoje estou trabalhando com Front-End
 - 🌱 Estou estudando Html, CSS, Javascript, Typescript e ReactJs ... na <a href="https://softexpe.org.br" target="_blank" rel="noopener noreferrer">Softexpe</a>
